@@ -32,9 +32,9 @@ Example: Fetching AAPL stock price from 2023-2024.
 
 *Data Preprocessing*
 
--Handles missing values.
+- Handles missing values.
 
--Computes SMA (Simple Moving Average) and EMA (Exponential Moving Average).
+- Computes SMA (Simple Moving Average) and EMA (Exponential Moving Average).
 
 - Normalizes price movements.
   
