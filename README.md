@@ -58,3 +58,9 @@ python stock_anomaly_detection.py
 
 🔹 Feel free to fork the repo, submit pull requests, or suggest improvements!
 
+
+## Output 
+![Screenshot 2025-03-14 225309](https://github.com/user-attachments/assets/40aa45b1-d074-41d7-9755-a5a24ede9283)
+
+![Screenshot 2025-03-14 225321](https://github.com/user-attachments/assets/d1149c64-3004-4cfd-ace4-35bbe57e41a7)
+
